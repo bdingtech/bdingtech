@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning Data Structure & algorithm
 - 👯 I'm glad to make friends with you！
-![image](https://github.com/youtiaoguagua/youtiaoguagua/blob/master/dino.gif)
+  ![image](https://img-1251598303.cos.ap-guangzhou.myqcloud.com/dino.gif)
+
 ### 🌐 Programming Languages 
 
 #### Know/Using
@@ -21,8 +22,8 @@
 
 #### Know/Using
 
-| [<img width="32" title="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />](https://git-scm.com/) | [<img width="32" title="VS Code" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />](https://code.visualstudio.com/) | [<img width="32" title="Android Studio" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />](https://developer.android.com/studio) | [<img width="32" title="travis-ci" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/travisci.svg" />](https://travis-ci.org/)  | [<img width="32" title="Vue.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />](https://vuejs.org/) 
-|---|---|---|---|---|
+| [<img width="32" title="Vue.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />](https://vuejs.org/) | [<img width="32" title="Vue.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />](https://vuejs.org/) | [<img width="32" title="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />](https://git-scm.com/) | [<img width="32" title="VS Code" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />](https://code.visualstudio.com/) 
+|---|---|---|---|
 
 #### Learning
 
