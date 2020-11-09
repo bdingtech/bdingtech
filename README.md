@@ -9,12 +9,12 @@
 
 #### Know/Using
 
-| [<img width="32" title="JavasSript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img width="32" title="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />](https://www.java.com/)  | [<img width="32" title="Android" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />](https://www.android.com/)  |  [<img width="32" title="c++" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img width="32" title="python" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />](https://www.python.org/) | [<img width="32" title="gnu bash" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />](https://www.gnu.org/software/bash/)  |
+| [<img width="32" title="JavasSript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 |---|---|---|---|---|---|
 
 #### Learning
 
-| [<img width="32" title="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />](https://www.typescriptlang.org/) |  [<img width="32" title="Rust" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg" />](https://www.rust-lang.org/)|
+| [<img width="32" title="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />](https://www.typescriptlang.org/) |  [<img width="32" title="Rust" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg" />](https://www.rust-lang.org/)|  [<img width="32" title="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />](https://www.java.com/) |  [<img width="32" title="python" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />](https://www.python.org/) |
 |---|---|
 
 ### 🛠️ Tools 
