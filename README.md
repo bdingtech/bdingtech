@@ -22,7 +22,7 @@
 
 #### Know/Using
 
-| [<img width="32" title="Vue.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />](https://vuejs.org/) | [<img width="32" title="Vue.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />](https://vuejs.org/) | [<img width="32" title="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />](https://git-scm.com/) | [<img width="32" title="VS Code" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />](https://code.visualstudio.com/) 
+| [<img width="32" title="Vue.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />](https://vuejs.org/) | [<img width="32" title="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />](https://reactjs.org/) | [<img width="32" title="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />](https://git-scm.com/) | [<img width="32" title="VS Code" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />](https://code.visualstudio.com/) 
 |---|---|---|---|
 
 #### Learning
