@@ -10,12 +10,12 @@
 #### Know/Using
 
 | [<img width="32" title="JavasSript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-|---|---|---|---|---|---|
+|---|
 
 #### Learning
 
-| [<img width="32" title="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />](https://www.typescriptlang.org/) |  [<img width="32" title="Rust" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg" />](https://www.rust-lang.org/)|  [<img width="32" title="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />](https://www.java.com/) |  [<img width="32" title="python" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />](https://www.python.org/) |
-|---|---|
+| [<img width="32" title="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />](https://www.typescriptlang.org/) |  [<img width="32" title="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />](https://www.java.com/) |  [<img width="32" title="python" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />](https://www.python.org/) |
+|---|---|---|
 
 ### 🛠️ Tools 
 
